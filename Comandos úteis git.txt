@@ -12,4 +12,4 @@ cls ou atalho Crtl + L (git bash) -> limpar tela
 mkdir 'nome da pasta' -> cria uma pasta
 del 'nome da pasta' -> apaga tudo dentro da pasta
 rmdir pasta /S /Q -> apaga a pasta toda
-ls -a -> mostra arquivos ocultos
+ls -a -> mostra arquivos ocultos;
