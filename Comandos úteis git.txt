@@ -1,0 +1,15 @@
+git init -> para iniciar um repositório na pasta atual
+git add -> para preparar/adicionar os arquivos para o commit
+git commit -m 'Descrição do commit' -> para commitar as alterações com uma observação
+git push origin master -> para enviar para o Git Hub, onde origin é o apelido da URL e master é o branch desejado
+
+git --help tem estes comandos dentro do terminal para auxiliar
+
+dir -> diretório atual
+cd pasta destino/ -> ir para uma pasta
+cd .. -> subir um nível
+cls ou atalho Crtl + L (git bash) -> limpar tela
+mkdir 'nome da pasta' -> cria uma pasta
+del 'nome da pasta' -> apaga tudo dentro da pasta
+rmdir pasta /S /Q -> apaga a pasta toda
+ls -a -> mostra arquivos ocultos
